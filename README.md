@@ -1,6 +1,6 @@
 ## Hi there !!!  It's me Kanika
 
-Pre-Final Year Student
+ Pre-Final Year Student
 <img align="right" width="370" height="290" src="https://github.com/kanikabaskar/Recreating_website/blob/20180f40a766fe2f3f614df3f343d62b00ca1064/kani.gif">
 - 🔭 Here's my [portfolio]                                                
 - 🌱 I’m currently learning DSA
