@@ -8,7 +8,7 @@
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kanika-b-405373255/)  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:kanikabaskar13@gmail.com)
-- 😄 Pronouns: kani
+- 😄 Pronouns: kani....
 - ⚡ Fun fact: I know to cook.
 
 ### I code in
